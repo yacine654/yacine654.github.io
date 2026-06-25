@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yacine654.twa",
+        "sha256_cert_fingerprints": ["EF:10:AF:C8:E8:D8:F2:01:DA:E5:B7:7A:85:06:C5:4A:2D:52:65:99:E2:26:2E:97:F2:E6:98:E1:78:0F:AF:57"]
+      }
+    }]
